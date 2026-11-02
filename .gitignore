@@ -10,6 +10,8 @@
 *.viv
 *.nfsp
 *.nsp
+# ...except the homebrew launcher forwarder, which contains no game code
+!dist/012a13c0de5f1000.nsp
 *.xbe
 *.wad
 *.pssg
