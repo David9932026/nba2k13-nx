@@ -66,6 +66,32 @@ or Vulkan render targets, this is a project with a very short runway to "genuine
 If you want to take it over: open an issue, or just fork it. I will hand over the repo or review PRs, whichever you
 prefer.
 
+### Who I'm looking for
+
+Any one of these — you do not have to take the whole thing:
+
+| | |
+|---|---|
+| **Renderer** | Render targets, resolves, texture identity/aliasing, Xenos texture formats, lighting and post. **Every remaining bug lives here — this is the one that matters.** |
+| **Performance** | GPU/CPU load analysis, draw merging, hot-spot hunting. |
+| **Memory** | Guest heap policy, texture cache and streaming. |
+| **Platform / input** | Switch-side compatibility, input consistency. |
+| **Device testing** | *I can cover this* — you don't need the hardware. |
+
+Useful background: Vulkan render targets and formats, or Xbox 360 graphics (PM4, EDRAM tiling, Xenia/recompilation
+projects), or embedded/Switch performance work. Comfortable in a large C++ codebase, and willing to reach conclusions
+from logs and pixel data rather than from "looks fine to me".
+
+### What I can offer
+
+- The full repository, plus **a ledger of 49 patches** — symptom, root cause, fix, evidence, status for each,
+  including the five I got wrong and rolled back.
+- **Seven technical documents** covering the architecture, the open issues, the build chain and the evidence method.
+- **Test hardware** — I have the console and can run whatever you need, pull logs, dump targets, send data back.
+- Working tools: scripted inputs, render-target PNG dumps, pixel statistics, seam detection, crash symbolisation.
+- Arrangement: `[unpaid / small budget per fix / long-term collaboration / repository transfer]` — remote, part-time
+  and milestone-based all fine.
+
 ---
 
 ## Status
