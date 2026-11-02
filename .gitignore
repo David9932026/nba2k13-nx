@@ -1,0 +1,65 @@
+# 从游戏本体派生的东西，一律不进仓库：游戏文件本身、由 default.xex 生成的代码、由它们构建出的二进制。
+
+# --- 游戏文件 ---------------------------------------------------------------
+*.xex
+*.xexp
+*.iso
+*.bin
+*.big
+*.bun
+*.viv
+*.nfsp
+*.nsp
+*.xbe
+*.wad
+*.pssg
+*.iff
+assets/
+game_root/
+game_data/
+
+# --- 由游戏生成 -------------------------------------------------------------
+generated/
+app/generated/
+app/src/copias_literales/
+app/src/*_spirv.h
+app_*/
+
+# --- 构建产物 ---------------------------------------------------------------
+out/
+build/
+*.nro
+*.nro.old
+*.nacp
+*.elf
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.exe
+*.pdb
+*.log
+
+# --- 运行时产物（日志 / 截图 / 探针导出）-------------------------------------
+logs/
+rex/logs/
+capturas/
+capturas_*/
+capture*/
+resuelta*.png
+destino*.png
+c49_*.raw
+*.log
+nba2k13_*.toml
+!config/nba2k13.switch.toml
+
+# --- 编辑器 / 系统 -----------------------------------------------------------
+.vs/
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+desktop.ini
+__pycache__/
+*.pyc
