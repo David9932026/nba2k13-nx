@@ -226,8 +226,16 @@ times on this project to be trusted.
   issues, asset manifest, build guide, testing & evidence methodology
 - **Test hardware**: the console is here; I'll run whatever you need, pull the logs, dump targets and send the data back
 - Working tools: scripted inputs, render-target PNG dumps, pixel statistics, seam detection, crash symbolisation
-- Arrangement: `[unpaid / small budget per fix / long-term collaboration / repository transfer — fill in what applies]`.
-  Remote is fine; part-time or milestone-based also fine.
+- **Arrangement, plainly**: I've put a lot of money into this — hardware, time, and round after round of trial and
+  error. It's at "playable, not finished", and I can't push it further on my own, but I also don't want all of that to
+  rot in a folder. So I'm looking for **someone to take it on, not a contractor**: no full-time commitment, no
+  deadline, do as much as you want. You change it, I run it on hardware and send back the logs and pixel data — **you
+  don't need to buy the console for this**. If you'd rather publish and maintain it yourself, **the repository can be
+  transferred to you** — repo name and credit are yours to decide.
+  `[keep one line if it applies: small budget available / strictly unpaid]`
+
+  Honestly, what I want isn't a paid outsourcing job — it's for this thing **not to die in my hands**. If you're
+  interested, terms are negotiable.
 
 **Contact**: 1325291954@qq.com · GitHub `[fill]` · Discord `[fill]`
 

@@ -89,8 +89,11 @@ from logs and pixel data rather than from "looks fine to me".
 - **Seven technical documents** covering the architecture, the open issues, the build chain and the evidence method.
 - **Test hardware** — I have the console and can run whatever you need, pull logs, dump targets, send data back.
 - Working tools: scripted inputs, render-target PNG dumps, pixel statistics, seam detection, crash symbolisation.
-- Arrangement: `[unpaid / small budget per fix / long-term collaboration / repository transfer]` — remote, part-time
-  and milestone-based all fine.
+- **Arrangement, plainly**: a lot of money has gone into this — hardware, time, trial and error. It's at "playable,
+  not finished", and I can't push it further alone, but I don't want the work to rot either. So I'm looking for
+  **someone to take it on, not a contractor**: no full-time commitment, no deadline. You change it, I run it on
+  hardware and send back logs and pixel data — **you don't need to buy the console**. If you'd rather publish and
+  maintain it yourself, **the repository can be transferred to you**. Terms negotiable.
 
 **Contact:** 1325291954@qq.com
 
