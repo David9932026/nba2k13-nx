@@ -92,6 +92,8 @@ from logs and pixel data rather than from "looks fine to me".
 - Arrangement: `[unpaid / small budget per fix / long-term collaboration / repository transfer]` — remote, part-time
   and milestone-based all fine.
 
+**Contact:** 1325291954@qq.com
+
 ---
 
 ## Status
