@@ -236,17 +236,18 @@ times on this project to be trusted.
   Honestly, what I want isn't a paid outsourcing job — it's for this thing **not to die in my hands**. If you're
   interested, I'll work around whatever suits you.
 
-**Contact**: 1325291954@qq.com · GitHub `[fill]` · Discord `[fill]`
+**Contact**: 1325291954@qq.com · GitHub [@David9932026](https://github.com/David9932026) · or just open an issue
 
-**Links**: repository `[fill]` · start with `docs/04-当前卡点.md` (open issues, what's ruled out, next step for each)
-and `docs/03-修复账本.md` (the 49 patches) · screenshots `[3 would help: normal gameplay, the black floor, the
+**Links**: repository https://github.com/David9932026/nba2k13-nx · prebuilt `nba2k13.nro` + shader library on the
+`v0.1-wip` release · start with `docs/04-当前卡点.md` (open issues, what's ruled out, next step for each) and
+`docs/03-修复账本.md` (the 49 patches) · screenshots `[3 would help: normal gameplay, the black floor, the
 fragmented headshot]`
 
 ---
 
-**On game files:** the repository contains no game assets, no recompiled code, no shader library and no binaries —
-they are all derivative works. Whoever takes this on needs their own copy of the Xbox 360 disc
-(`545408A2`, `default.xex` of 8,122,368 bytes) and generates the intermediates from it. That part can't be worked
-around.
+**On game files:** the code in this repository contains no game assets, no recompiled code, no shader library and no
+binaries — they are all derivative works. The prebuilt release is for people who **already own the game**, and is not
+a substitute for it. Building from source needs your own copy of the Xbox 360 disc (`545408A2`, `default.xex` of
+8,122,368 bytes).
 
 Thanks — happy to answer anything.

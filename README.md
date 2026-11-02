@@ -17,9 +17,13 @@
 </div>
 
 > [!IMPORTANT]
-> **No game files are included.** You need your own copy of *NBA 2K13* for Xbox 360 (Title ID `545408A2`,
-> `default.xex` of 8,122,368 bytes). This repository contains no assets, no recompiled code and no shader library —
-> they are all derived from the game and you have to generate them from your own disc.
+> **No game files are in the repo.** You need your own copy of *NBA 2K13* for Xbox 360 (Title ID `545408A2`,
+> `default.xex` of 8,122,368 bytes). The source tree contains no assets, no recompiled code and no shader library —
+> they are all derived from the game and you generate them from your own disc.
+>
+> If you already own the game and just want to run it, the [**`v0.1-wip` release**](https://github.com/David9932026/nba2k13-nx/releases)
+> has a prebuilt `nba2k13.nro` and shader library. It is for testing by people who already own the game, not a
+> substitute for it.
 
 ---
 
@@ -120,8 +124,9 @@ There is no browser installer for this one (unlike the ports it is based on). Ma
 
 1. Generate the pieces from your own disc — the recompiled code and the shader library
    ([docs/05](docs/05-资源清单.md), [docs/06](docs/06-构建指南.md)). The shader library is ~260 MB.
-2. Build the NRO, or take a release build.
-3. Put this on the SD card:
+2. Build the NRO, or take the prebuilt one from the
+   [`v0.1-wip` release](https://github.com/David9932026/nba2k13-nx/releases).
+3. Put this on the SD card (config files are in [`dist/sdcard/`](dist/sdcard)):
 
    ```
    sdmc:/switch/nba2k13/
@@ -253,9 +258,10 @@ See [NOTICE.md](NOTICE.md) for licences.
 ## Legal
 
 Non-commercial fan project, not affiliated with or endorsed by 2K, Take-Two, Microsoft or Nintendo. *NBA 2K13* and
-all related artwork are copyrights of their owners. No game code or assets are distributed here: the port only runs
-with files from a disc you own. Running homebrew requires custom firmware, which violates Nintendo's ToS and can get
-a console banned — your call.
+all related artwork are copyrights of their owners. The source tree distributes no game code or assets — everything
+under `runtime/` and `app/` is port code. The prebuilt binaries on the release page are recompiled from the game and
+are offered only for testing by people who already own it. Running homebrew requires custom firmware, which violates
+Nintendo's ToS and can get a console banned — your call.
 
 Source is GPL-3.0, inherited from NFSMW-NX. The SDK changes follow the SDK's licence, the shader translator and Mesa
 changes their own (see [NOTICE.md](NOTICE.md)).
