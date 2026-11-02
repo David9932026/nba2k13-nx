@@ -231,7 +231,11 @@ CPU 100% 和 GPU 99.7% 同时出现，要看 fences 等待时间才能分清谁�
 - 仓库：https://github.com/David9932026/nba2k13-nx
 - 预编译包（nro + 着色器库）：仓库 Release 页，标签 `v0.1-wip`
 - 先看这两份就够上手：`docs/04-当前卡点.md`（卡点 + 已排除 + 下一步）、`docs/03-修复账本.md`（49 个补丁的账）
-- 截图：`【建议补 3 张：正常比赛画面、地板黑块、统计页头像碎片 —— 比文字有说服力】`
+- 截图（直接下载后当图片上传）：
+  - 能玩：https://github.com/David9932026/nba2k13-nx/raw/main/docs/img/gameplay-ind-vs-ny.jpg
+  - 地板黑块：https://github.com/David9932026/nba2k13-nx/raw/main/docs/img/floor-dark-patch.jpg
+  - 统计页头像碎片：https://github.com/David9932026/nba2k13-nx/raw/main/docs/img/boxscore-headshots-fragmented.jpg
+  - 预热 MV 两层：https://github.com/David9932026/nba2k13-nx/raw/main/docs/img/pregame-mv-double-image.jpg
 
 ---
 

@@ -240,8 +240,11 @@ times on this project to be trusted.
 
 **Links**: repository https://github.com/David9932026/nba2k13-nx · prebuilt `nba2k13.nro` + shader library on the
 `v0.1-wip` release · start with `docs/04-当前卡点.md` (open issues, what's ruled out, next step for each) and
-`docs/03-修复账本.md` (the 49 patches) · screenshots `[3 would help: normal gameplay, the black floor, the
-fragmented headshot]`
+`docs/03-修复账本.md` (the 49 patches) · screenshots:
+[gameplay](https://github.com/David9932026/nba2k13-nx/raw/main/docs/img/gameplay-ind-vs-ny.jpg) ·
+[black floor](https://github.com/David9932026/nba2k13-nx/raw/main/docs/img/floor-dark-patch.jpg) ·
+[fragmented headshot](https://github.com/David9932026/nba2k13-nx/raw/main/docs/img/boxscore-headshots-fragmented.jpg) ·
+[pre-game movie double image](https://github.com/David9932026/nba2k13-nx/raw/main/docs/img/pregame-mv-double-image.jpg)
 
 ---
 
