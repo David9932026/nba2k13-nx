@@ -232,10 +232,9 @@ times on this project to be trusted.
   deadline, do as much as you want. You change it, I run it on hardware and send back the logs and pixel data — **you
   don't need to buy the console for this**. If you'd rather publish and maintain it yourself, **the repository can be
   transferred to you** — repo name and credit are yours to decide.
-  `[keep one line if it applies: small budget available / strictly unpaid]`
 
   Honestly, what I want isn't a paid outsourcing job — it's for this thing **not to die in my hands**. If you're
-  interested, terms are negotiable.
+  interested, I'll work around whatever suits you.
 
 **Contact**: 1325291954@qq.com · GitHub `[fill]` · Discord `[fill]`
 
